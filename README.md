@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Manpreet Sandhu
 - 👀 I’m interested in learning more about Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Flutter and how to build applications using it.
+- 🌱 I’m currently working on a fun project ==> Linkedln-Clone Web Application.
 - 👯 I’m looking to collaborate with other creators
 - 📫 Connect with me on <a href="https://www.linkedin.com/in/manpreetsandhu5998/" target="_blank">LinkedIn</a>
 - 🖥️ Portfolio Website - <a href="https://sandh232.github.io/" target="_blank">Click Here</a>
